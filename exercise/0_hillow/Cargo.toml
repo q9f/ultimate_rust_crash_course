@@ -1,0 +1,8 @@
+[package]
+name = "hillow"
+version = "0.1.0"
+authors = ["Afr Schoe <rust@q9f.cc>"]
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
