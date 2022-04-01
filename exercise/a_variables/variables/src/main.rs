@@ -29,4 +29,12 @@ fn main() {
 
     missiles = missiles - ready + ready;
     println!("{} missiles left ...", missiles - ready);
+
+    let enigma: i32;
+    if true {
+        enigma = 2;
+    } else {
+        enigma = 0;
+    }
+    println!("enigma is {}", enigma);
 }
